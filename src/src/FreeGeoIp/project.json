@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0-*",
+  "description": "FreeGeoIp Client",
+  "authors": [ "Jordan Wallwork <jrwallwork@gmail.com>" ],
+  "tags": [ "ip", "geolocation" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net451": { }
+  },
+  "dependencies": {
+    "Newtonsoft.Json": "8.0.3"
+  }
+}
