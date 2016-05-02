@@ -1,6 +1,12 @@
 # FreeGeoIp
 Simple client for calling free IP geolocation api at freegeoip.net
 
+## Installation
+
+Install via nuget:
+
+  PM> Install-Package FreeGeoIp
+
 ## Usage
 
     var response = new FreeGeoIp.Client().Get(ipAddress)
